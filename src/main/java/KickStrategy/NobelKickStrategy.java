@@ -1,4 +1,4 @@
-package KickStrategy;
+package kickstrategy;
 import java.util.Random;
 
 import lombok.AllArgsConstructor;

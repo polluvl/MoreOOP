@@ -1,4 +1,4 @@
-package KickStrategy;
+package kickstrategy;
 import lotr.Character;
 
 public interface KickStrategy {
