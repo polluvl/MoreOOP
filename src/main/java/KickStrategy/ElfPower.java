@@ -2,7 +2,7 @@ package kickstrategy;
 import lotr.Character;
 
 
-public class ElfKickStrategy implements KickStrategy{
+public class ElfPower implements KickStrategy{
     @Override
     public void kick(Character kicker, Character c){
         if (kicker.getPower() > c.getPower()){

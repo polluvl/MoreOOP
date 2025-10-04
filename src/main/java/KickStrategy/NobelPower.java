@@ -7,7 +7,7 @@ import lotr.Character;
 
 @Data
 @AllArgsConstructor
-public class NobelKickStrategy implements KickStrategy{
+public class NobelPower implements KickStrategy{
     @Override
     public void kick(Character kicker, Character c){
         int enemy_hp = c.getHp();
